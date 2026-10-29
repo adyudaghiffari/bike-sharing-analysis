@@ -49,9 +49,7 @@ submission/
 │   └── dashboard.py
 ├── data/
 │   ├── day.csv
-│   ├── hour.csv
-│   ├── day_clean.csv
-│   └── hour_clean.csv
+│   └── hour.csv
 ├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
