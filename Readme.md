@@ -60,7 +60,6 @@ Keterangan:
 
 - `dashboard/dashboard.py`: Kode untuk menjalankan dashboard Streamlit.
 - `data/day.csv` dan `data/hour.csv`: Dataset asli.
-- `data/day_clean.csv` dan `data/hour_clean.csv`: Data hasil pembersihan dari notebook yang digunakan oleh dashboard apabila tersedia.
 - `notebook.ipynb`: Dokumentasi proses analisis data.
 - `requirements.txt`: Daftar library Python yang diperlukan.
 - `url.txt`: Tempat menyimpan URL dashboard setelah berhasil di-deploy.
